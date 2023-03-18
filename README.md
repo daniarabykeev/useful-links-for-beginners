@@ -1,6 +1,5 @@
 
-# Полезные материалы по веб-разработке! [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
-(https://github.com/daniarabykeev/useful-links-for-beginners)]
+# Полезные материалы по веб-разработке! 
 
 Собрал все в одном месте! Подборка учебных материалов по HTML, CSS, JavaScript, React, а также сервисов и программ, которые пригодятся веб-разработчику!
 
