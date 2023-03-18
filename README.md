@@ -3,7 +3,7 @@
 
 Собрал все в одном месте! Подборка учебных материалов по HTML, CSS, JavaScript, React, а также сервисов и программ, которые пригодятся веб-разработчику!
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=filimonovalexey&style=flat-square&color=blue" alt=""></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=daniarabykeev&style=flat-square&color=blue" alt=""></p>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="500"/>
